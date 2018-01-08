@@ -6,6 +6,8 @@
     align-items: center;
     position: relative;
     background: url("../../images/utah-mountains-wallpaper-2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     height: calc(100vh - 103px);
     font-family: 'Source Code Pro', monospace;
 }
